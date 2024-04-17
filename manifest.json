@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Hilatex",
+  "version": "1.0",
+  "description": "Copies highligted latex to your clipboard",
+  "permissions": [
+    "clipboardWrite",
+    "contextMenus",
+    "menus"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_title": "Hilatex"
+  }
+}
