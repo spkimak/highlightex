@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Hilatex",
+  "name": "HighlighTeX",
   "version": "1.0",
   "description": "Copies highligted latex to your clipboard",
   "permissions": [
@@ -13,6 +13,6 @@
     "persistent": false
   },
   "browser_action": {
-    "default_title": "Hilatex"
+    "default_title": "HighlighTeX"
   }
 }
